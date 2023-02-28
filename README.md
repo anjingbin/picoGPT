@@ -1,3 +1,5 @@
+Tested on python 3.10.7 on mac m1.
+
 # PicoGPT
 
 You've seen [openai/gpt-2](https://github.com/openai/gpt-2).
